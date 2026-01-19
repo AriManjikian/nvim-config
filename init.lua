@@ -85,8 +85,5 @@ local function nextTheme()
   vim.cmd("colorscheme " .. colorschemes[index])
 end
 vim.keymap.set("n", "<space>cs", nextTheme)
--- AriManjikian --
--- AriManjikian --
--- AriManjikian --
--- AriManjikian --
+
 -- AriManjikian --

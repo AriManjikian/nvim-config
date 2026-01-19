@@ -6,7 +6,7 @@ return {
     end,
   },
   {
-    dir = "~/.config/nvim/plugin/latest_error.nvim",
+    dir = "~/dev/latest_error.nvim",
     config = function()
       require "latest_error".setup()
     end,
